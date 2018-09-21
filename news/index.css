@@ -1,0 +1,76 @@
+body 	{ background-image: url(background.jpg); }
+
+header { text-align: center;
+		 }
+title_jpg {width:300px;}
+
+	
+#tableContainer { 	display:table;
+					border-spacing: 10px;
+					 }
+#tableRow { display: table-row; }
+
+#meny 	{	display: table-cell;
+			background-color: #BC94EE;
+			width: 15%;
+			border-radius: 30px;
+			padding: 0px 5px 1px 0px;
+			margin: 10px;
+			}
+
+#meny_h1 { border-radius: 10px;
+	font-family: tahoma;
+		width: 90%;
+		text-align: right;
+		color: white;
+		border-style: solid;
+		}
+
+
+#meny_ul {padding: 40px 10px 10px 10px ;
+		margin: 10px 10px 20px 10px;
+		width: 80%;
+		border-color: white;
+		background-color: #3C92CE;
+		border-radius: 30px;
+		border width: thin;
+		color: #5F27D1	;
+		border-style: solid;
+		font-family: calibri ;
+		font-size: 20px;
+		}
+#main {display: table-cell;
+		background-color: #D1A9F2;
+		border-radius: 20px;
+		text-align: center;
+
+
+		}		
+
+#meny_r 	{ display: table-cell;
+			background-color: #781AEC;
+			width: 15%;
+			border-radius: 30px;
+			padding: 0px 5px 1px 0px;
+			}
+#meny_r_h1 {font-family: tahoma;
+		width: 80%;
+		text-align: right;
+		color: white;
+		}
+
+
+#meny_r_ul {padding: 40px 10px 10px 10px ;
+		margin: 10px 10px 20px 10px;
+		width: 80%;
+		border-color: white;
+		background-color: #3C92CE;
+		border-radius: 30px;
+		border width: thin;
+		color: #5F27D1	;
+		border-style: solid;
+		font-family: calibri ;
+		font-size: 20px;
+		}
+footer {text-align: center;
+}
